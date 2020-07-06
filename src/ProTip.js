@@ -16,13 +16,6 @@ import Container from '@material-ui/core/Container';
 import Box from '@material-ui/core/Box';
 
 const useStyles = makeStyles((theme) => ({
-  '@global': {
-    ul: {
-      margin: 0,
-      padding: 0,
-      listStyle: 'none',
-    },
-  },
   appBar: {
     borderBottom: `1px solid ${theme.palette.divider}`,
   },
@@ -190,7 +183,13 @@ export default function Pricing() {
                       /mo
                     </Typography>
                   </div>
-                  <ul>
+                  <ul
+                    style={{
+                      margin: 0,
+                      padding: 0,
+                      listStyle: 'none',
+                    }}
+                  >
                     {tier.description.map((line) => (
                       <Typography
                         component="li"
