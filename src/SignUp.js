@@ -60,7 +60,7 @@ export default function SignUp() {
           Nullam lacinia gravida mi, eu semper velit. Orci varius natoque
           penatibus et magnis dis parturient montes, nascetur mus.
         </Typography>
-        <form className={classes.form} noValidate>
+        <form className={classes.form}>
           <Grid container spacing={2}>
             <Grid item xs={12} sm={6}>
               <TextField
@@ -107,6 +107,7 @@ export default function SignUp() {
             variant="contained"
             color="primary"
             className={classes.submit}
+            onClick={() => {}}
           >
             Enviar
           </Button>
