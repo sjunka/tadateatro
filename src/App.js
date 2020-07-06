@@ -55,7 +55,7 @@ export default function App() {
         <Drawer
           open={openDrawer}
           close={() => SetOpenDrawer((preOpenDrawer) => false)}
-        ></Drawer>
+        />
       </Box>
 
       <MainFeaturedPost />
