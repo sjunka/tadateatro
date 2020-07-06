@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Button from '@material-ui/core/Button';
 import Card from '@material-ui/core/Card';
@@ -148,7 +148,7 @@ export default function Pricing() {
   const classes = useStyles();
 
   return (
-    <React.Fragment>
+    <>
       <CssBaseline />
 
       {/* Hero unit */}
@@ -230,6 +230,6 @@ export default function Pricing() {
           ))}
         </Grid>
       </Container>
-    </React.Fragment>
+    </>
   );
 }
