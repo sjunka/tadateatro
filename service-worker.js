@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tadateatro/precache-manifest.a2c4f111774473731b70f6a5428c6b65.js"
+  "/tadateatro/precache-manifest.cc34edc4288bde68d47eb7ec84f57ede.js"
 );
 
 self.addEventListener('message', (event) => {
