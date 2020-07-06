@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tadateatro/static/js/main.17edeeb2.chunk.js",
-    "main.js.map": "/tadateatro/static/js/main.17edeeb2.chunk.js.map",
+    "main.js": "/tadateatro/static/js/main.bb28de88.chunk.js",
+    "main.js.map": "/tadateatro/static/js/main.bb28de88.chunk.js.map",
     "runtime-main.js": "/tadateatro/static/js/runtime-main.fb987f6f.js",
     "runtime-main.js.map": "/tadateatro/static/js/runtime-main.fb987f6f.js.map",
     "static/js/2.7f71f66f.chunk.js": "/tadateatro/static/js/2.7f71f66f.chunk.js",
     "static/js/2.7f71f66f.chunk.js.map": "/tadateatro/static/js/2.7f71f66f.chunk.js.map",
     "index.html": "/tadateatro/index.html",
-    "precache-manifest.4cda97f95890ed3ec9741400de80c8b9.js": "/tadateatro/precache-manifest.4cda97f95890ed3ec9741400de80c8b9.js",
+    "precache-manifest.4687794c134c416f0932c85be6cf614a.js": "/tadateatro/precache-manifest.4687794c134c416f0932c85be6cf614a.js",
     "service-worker.js": "/tadateatro/service-worker.js",
     "static/js/2.7f71f66f.chunk.js.LICENSE.txt": "/tadateatro/static/js/2.7f71f66f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fb987f6f.js",
     "static/js/2.7f71f66f.chunk.js",
-    "static/js/main.17edeeb2.chunk.js"
+    "static/js/main.bb28de88.chunk.js"
   ]
 }
