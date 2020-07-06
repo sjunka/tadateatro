@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "530fe641e0914fc321e8af1a442a2cad",
+    "revision": "051d4f0a1757c14904fa3d6fd6b37143",
     "url": "/tadateatro/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tadateatro/static/js/2.7f1a3e7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13a6e1571a693fcf83cb",
-    "url": "/tadateatro/static/js/main.d2a1f463.chunk.js"
+    "revision": "8e53a824823879fb668a",
+    "url": "/tadateatro/static/js/main.0f407520.chunk.js"
   },
   {
     "revision": "ddbc66c72dba886a3133",
